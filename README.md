@@ -58,7 +58,7 @@ python main.py
 Just open `web-version/index.html` in your browser.
 
 Or view the live site here:
-[![View Website](https://img.shields.io/badge/View-Website-brightgreen)](https://nischayabeniwal.github.io/password-strength-checker/web-version/)
+[![View Website](https://img.shields.io/badge/View-Website-brightgreen)](https://nischayabeniwal.github.io/CODECRAFT_CS_03/web-version/)
 
 ---
 
