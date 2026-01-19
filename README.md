@@ -82,7 +82,7 @@ Double-click ArcCheck.exe to launch the app
 
 ## 🤝 Contributing
 
-Pull requests are welcome! If you have suggestions or improvements, feel free to fork this repo and open a PR.
+Pull requests are welcome! If you have any suggestions or improvements, feel free to fork this repo and open a PR.
 
 ---
 
